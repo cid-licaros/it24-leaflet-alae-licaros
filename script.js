@@ -32,8 +32,8 @@ map.on("click", function(event) {
 
 const locations = [
   
-  {name: "nbsc", lat: 8.42164,lng: 124.81085 },
-  {name: "nbsc", lat: 8.42007,lng: 124.81376 }
+  {name: "alae high school", lat: 8.42164,lng: 124.81085 },
+  {name: "alae elementary school", lat: 8.42007,lng: 124.81376 }
 ];
 
 locations.forEach(function(place) {
