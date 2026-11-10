@@ -6,7 +6,7 @@ L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
 }).addTo(map);
 
 
-const marker = L.marker([8.37, 124.86])
+const marker = L.marker([ 8.37157, 124.85650])
   .addTo(map)
   .bindPopup("<b>Manolo Fortich</b><p>Municipality</p>");
 
